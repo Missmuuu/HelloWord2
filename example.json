@@ -1,0 +1,17 @@
+{
+    "users":
+    [
+        {
+            "lastname":"Simonné Bíró",
+            "firstname":"Anett",
+            "address":
+            {
+                "city":"Budapest",
+                "zip":1131,
+                "street":"Szent László út",
+                "house":"132 4/12"
+            }
+        },
+        {}     
+    ]
+}
