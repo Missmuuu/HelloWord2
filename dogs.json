@@ -1,0 +1,33 @@
+{
+    "dogs":[
+        {
+            "name":"Freya",
+            "breed":"Keverék",
+            "owners":[1,2]
+        }
+    ],
+    "owners":
+    [
+        {
+            "id":1 ,
+            "name":"Simonné Bíró Anett",
+            "address":{
+                "city":"Budapest",
+                "zip":1131,
+                "street": "Szent László út",
+                "number":"132. 4/12."
+            }
+            
+        },
+        {
+            "id":2,
+            "name":"Simonné Bíró Anett",
+            "address":{
+                "city":"Budapest",
+                "zip":1131,
+                "street": "Szent László út",
+                "number":"132. 4/12."
+            }
+        }
+    ]
+}
