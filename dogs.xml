@@ -1,0 +1,27 @@
+<root>
+
+    <dogs>
+        <dog><!-- ez egy comment -->
+            <owners>
+                <owner id="1"/>
+                <owner id="2"/>
+            </owners>
+            <name>Freya</name>
+            <breed>Keverék</breed>
+        </dog>
+    </dogs>
+    <owners>
+        <owner id="1">
+            <name>Simonné Bíró Anett</name>
+            <city zip="1131">Budapest</city>
+            <street>Szent László út</street>
+            <number>132. 4/12.</number>
+        </owner>
+        <owner id="2">
+            <name>Simon Tamás</name>
+            <city zip="1131">Budapest</city>
+            <street>Szent László út</street>
+            <number>132. 4/12.</number>
+        </owner>
+    </owners>
+</root>
